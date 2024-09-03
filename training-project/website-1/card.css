@@ -1,0 +1,130 @@
+nav a img {
+    width: 50px;
+    height: 50px;
+    gap: 20px;
+}
+
+nav ul li a {
+    justify-content: space-evenly;
+    display: flex;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.p1 {
+    text-align: center;
+    font-size: x-large;
+
+}
+.container {
+    text-align: center;
+     margin: 100px;
+}
+body {
+    background:linear-gradient(45deg,#a6c9c8,#3030b6,#ff00f5);
+    
+}
+nav {
+    
+}
+.photo1:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo2:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo3:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo4:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo5:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo6:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo7:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo8:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo9:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo10:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo11:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo12:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo13:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+.photo14:hover{
+    animation: ani 4s infinite;
+    transition: ease ;
+    
+}
+ @keyframes ani {
+    0% {
+        transform: translateX(0px);
+    }
+    40% {
+        transform: translateX(50px);
+    }
+    75% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0px);
+    }
+ }
+ .footer {
+    text-align: center;
+    background:linear-gradient(45deg,#e8fcf5,#272727,#070707);
+    height: 200px;
+    font-size: xx-large;
+    color: white;
+    padding-top: 40px;
+ }
+ .search {
+    justify-content:end;
+    background: none;
+    border-bottom: 2px solid #111;
+    color: black;
+ }
